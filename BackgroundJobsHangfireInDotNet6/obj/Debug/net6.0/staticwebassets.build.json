@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "o0IoU26T8KqAVm3OKi7lTCRploHwuahpaiEtBjd+vwU=",
+  "Source": "BackgroundJobsHangfireInDotNet6",
+  "BasePath": "_content/BackgroundJobsHangfireInDotNet6",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
